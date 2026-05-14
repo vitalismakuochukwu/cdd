@@ -1,0 +1,19 @@
+//Objectives//
+Trying to design calender using a box-shadow focusing on CSS
+
+//What my output look like//
+Ifocused more on using the  box-shodow to create a 5 by 6 inner box .
+
+/Things that i learnt aside the output task i designed//
+i extended my learning in how they make use of the simple CSS selectors..
+universal selectors:*-It select all element
+Id selectors:#firstname-	Selects the element with id="firstname"
+element:p-Selects all <p> elements
+class:.intro-Selects all elements with class="intro"
+
+I extended my learning also in CSS pseudo-element
+What is pseudo-element all about:CSS pseudo-element is used to style specific parts of an element. Example, Style the first letter or line, of an element
+
+i made use of the pseudo-element (::after) in my style.css.
+
+i also read up the text-underline-offset and i practiced it also.
